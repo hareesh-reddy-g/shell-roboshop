@@ -1,7 +1,7 @@
 #!/bin/bash
 
 AMI_ID="ami-09c813fb71547fc4f"
-SG_ID="sg-0740382b167ac0ce2" # This is Security Group ID
+SG_ID="sg-08135b679290f9e3c" # This is Security Group ID
 
 for instance in $@
 do

@@ -1,8 +1,8 @@
 #!/bin/bash
 
 AMI_ID="ami-09c813fb71547fc4f"  # This is AMI ID
-SG_ID="sg-0740382b167ac0ce2" # This is Security Group ID
-ZONE_ID="Z0278110EQPYQ4AALTQX" # This is Domain or Record Zone ID
+SG_ID="sg-08135b679290f9e3c" # This is Security Group ID
+ZONE_ID="Z099665035X39GB8IHQAJ" # This is Domain or Record Zone ID
 DOMAIN_NAME="hareesh.space"
 for instance in $@
 do
